@@ -1,2 +1,2 @@
 # fastfood
-jakim jestes fastfoodem
+jakim jestes fastfoodem [tutaj](test.html)
