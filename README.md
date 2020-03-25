@@ -1,0 +1,2 @@
+# fastfood
+jakim jestes fastfoodem
